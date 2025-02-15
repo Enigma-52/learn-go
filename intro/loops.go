@@ -4,6 +4,8 @@ import "fmt"
 
 func Loops() {
 
+	//for is Go’s only looping construct.
+
 	i := 1
 	for i <= 3 {
 		fmt.Println(i)
@@ -18,6 +20,7 @@ func Loops() {
 		fmt.Println("range", i)
 	}
 
+	//runs till u break/return
 	for {
 		fmt.Println("loop")
 		break
