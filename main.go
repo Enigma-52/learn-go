@@ -12,4 +12,5 @@ func main() {
 	intro.Variables()
 	intro.Loops()
 	intro.IfElse()
+	intro.Switch()
 }

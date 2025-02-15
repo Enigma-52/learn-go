@@ -4,6 +4,9 @@ import "fmt"
 
 func Loops() {
 
+	fmt.Println("-----------")
+	fmt.Println("Go Loops :")
+	fmt.Println("-----------")
 	//for is Go’s only looping construct.
 
 	i := 1

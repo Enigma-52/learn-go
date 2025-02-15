@@ -4,6 +4,10 @@ import "fmt"
 
 func IfElse() {
 
+	fmt.Println("-----------")
+	fmt.Println("Go If/Else :")
+	fmt.Println("-----------")
+
 	//don’t need parentheses around conditions in Go
 	//There is no ternary operator in Go
 
