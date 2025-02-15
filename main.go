@@ -10,4 +10,5 @@ func main() {
 
 	intro.Values()
 	intro.Variables()
+	intro.Loops()
 }

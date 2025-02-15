@@ -2,11 +2,15 @@ package intro
 
 import "fmt"
 
+const s string = "constant"
+
 func Variables() {
 
 	fmt.Println("-----------")
 	fmt.Println("Go Variables :")
 	fmt.Println("-----------")
+
+	fmt.Println(s)
 
 	var a = "initial"
 	fmt.Println(a)
