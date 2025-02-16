@@ -6,11 +6,12 @@ import (
 )
 
 func main() {
-	fmt.Println("Welcome to my Go learning project!")
+	fmt.Println("Go learning project!")
 
 	intro.Values()
 	intro.Variables()
 	intro.Loops()
 	intro.IfElse()
 	intro.Switch()
+	intro.Arrays()
 }
