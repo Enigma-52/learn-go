@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Go learning project!")
+	fmt.Println("Learning Go!")
 
 	intro.Values()
 	intro.Variables()
